@@ -1,0 +1,44 @@
+IMDB
+ARQUIVO 1 - tamanho em disco 121MB
+Execution time - SKLearn: 129.21151065826416 seconds
+Accuracy = 0.7079121175360561
+ 
+Execution time - PySpark: 65.52617406845093 seconds
+Accuracy = 0.6427433275793387
+
+
+
+ARQUIVO 2 - tamanho em disco 242MB
+Execution time - SKLearn: 282.94314908981323 seconds
+Accuracy = 0.9098935166464484
+ 
+Execution time - PySpark: 123.7662262916565 seconds
+Accuracy = 0.6498485705727693
+
+
+
+ARQUIVO 3 - tamanho em disco 363MB
+Execution time - SKLearn: 381.6397782096863 seconds
+Accuracy = 0.973379161612077
+ 
+Execution time - PySpark: 156.4930601119995 seconds
+Accuracy = 0.6456274786583317
+
+
+
+ARQUIVO 4 - tamanho em disco 484MB
+Execution time - SKLearn: 568.9964170455933 seconds
+Accuracy = 0.973379161612077
+ 
+Execution time - PySpark: 242.0683941841155 seconds
+Accuracy = 0.6456274786583317
+
+
+ARQUIVO 5 - tamanho em disco 605MB
+Execution time - SKLearn: 674.1713824272156 seconds
+Accuracy = 0.9970346008168327
+ 
+Execution time - PySpark: 370.84993529319763 seconds
+Accuracy = 0.649738430583501
+
+
